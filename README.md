@@ -26,9 +26,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=su-yunhe&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=su-yunhe&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-yunhe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=su-yunhe&layout=compact&theme=tokyonight)
 
 ## Contact
 
