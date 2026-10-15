@@ -1,17 +1,26 @@
-# Hi, I'm Su 👋
+# Hi, I'm Bress 👋
 
-我是一名软件工程方向研究生，主要关注 **大语言模型驱动的软件工程**、**LLM Agent** 与 **智能开发工具**。
+我是一名智能软件工程方向的研究生，主要关注 **大模型预训练与后训练**、**LLM Agents**、**大模型驱动的软件工程（LLM4SE）** 与 **智能开发工具**。
 
-目前的研究与工程实践围绕如何让大语言模型更好地理解代码仓库、开发者上下文和真实编程任务展开，重点关注仓库级问答、开发者记忆建模、RAG、Agent workflow 与 AI 应用开发。
+目前，我的研究与工程实践聚焦于代码大模型训练，以及面向长程复杂任务的 Agent Harness 与记忆机制，探索如何提升智能体在真实软件开发场景中的任务执行能力与可靠性。
+
+## Internship Experience
+
+- **2026.07 – 至今｜百度 BMU（基础模型部）**：大模型预训练
+- **2024.07 – 2024.10｜华为 2012 实验室**
+
+## Project Experience
+
+- **2025 – 2026｜代码大模型后训练**：面向大跨度光标预测与代码补全
+- **2024 – 2026｜长程开发任务记忆构建**：面向长程软件开发任务的智能体记忆机制（CCF-A · FSE 2026）
 
 ## Research Interests
 
-- LLM Agents for Software Engineering
-- Repository-level Question Answering
-- Developer Memory and Context Modeling
-- Retrieval-Augmented Generation
-- Intelligent Developer Tools
-- AI Application Engineering
+- Code LLM Pre-training & Post-training
+- Agent Harnesses for Long-horizon Tasks
+- Agent Memory for Software Development
+- LLMs for Software Engineering (LLM4SE)
+- Intelligent Developer Tools & Code Completion
 
 ## Tech Stack
 
@@ -22,7 +31,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-
 
 ## GitHub Stats
 
